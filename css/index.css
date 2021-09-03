@@ -393,6 +393,8 @@ footer nav a {
     margin-left: 2%;
 }
 
+
+
 .end {
     display: flex;
     flex-wrap: wrap;
@@ -401,7 +403,30 @@ footer nav a {
 
 .end h3 {
     width: 100%;
+
 }
+
+.dashes {
+    display: flex;
+    justify-content: space-around;
+    margin: 1%;
+    align-items: center;
+    width: 100%;
+}
+.dashl {
+    border-bottom: 1px dashed gray;
+    width: 47%;
+}
+
+.dashr {
+    border-bottom: 1px dashed gray;
+    width: 47%;
+}
+
+
+
+
+
 
 
 
