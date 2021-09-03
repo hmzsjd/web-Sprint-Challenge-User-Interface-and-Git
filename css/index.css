@@ -294,3 +294,106 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* ABOUT PAGE ADDITIONAL CSS */
+
+.about {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 1%;
+    
+}
+.about h2 {
+    width: 20%;
+}
+.about p {
+    width: 100%;
+}
+
+.dashed {
+    border-bottom: 1px dashed black;
+    height: 1vh;
+}
+
+
+.container .about-page {
+    display:flex;
+    
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.row2 {
+    display: flex;
+}
+
+.row2 h3.lefth3 {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.row2 h3.righth3 {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+    margin-top: .5%;
+}
+
+.row3 {
+    display: flex;
+}
+
+.row3 p.leftp {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+}
+
+.row3 p.rightp {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+   
+}
+
+.row4 {
+    display: flex;
+}
+
+.row4 a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2%;
+    font-size: 1.6rem;
+    white-space: nowrap;
+    width: 30%;
+    text-align: center;
+    
+}
+
+.row4 div.lefta {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+}
+
+.row4 div.righta {
+    display: flex;
+    width: 50%;
+    margin-left: 2%;
+}
+
+
+
+
+
