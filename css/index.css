@@ -376,7 +376,7 @@ footer nav a {
     padding: 2%;
     font-size: 1.6rem;
     white-space: nowrap;
-    width: 30%;
+    width: 33%;
     text-align: center;
     
 }
@@ -393,6 +393,15 @@ footer nav a {
     margin-left: 2%;
 }
 
+.end {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4% 2%;
+}
+
+.end h3 {
+    width: 100%;
+}
 
 
 
